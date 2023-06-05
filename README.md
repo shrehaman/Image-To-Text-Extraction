@@ -19,7 +19,7 @@ Key Features of the Image to Text Extraction Program:
 The Image to Text Extraction Program aims to simplify the task of extracting text from images, enabling users to digitize printed or handwritten documents quickly. It can be useful in scenarios such as converting scanned documents to editable text, extracting text from images for translation, or processing text-based images for data analysis.
 
 
-
+Project - 13
 
 ## Table of Contents
 - [Technology Used](#technologies)
